@@ -1,0 +1,2 @@
+# TicTacToe
+Our goal is to create a playable version of Tic-Tac-Toe in the browser.  In Tic-Tac-Toe, the game board is a 3x3 grid of squares.  Each square can be marked with an “X,” an “O,” or it can remain blank. All squares start blank.  Player “X” and Player “O” take turns marking blank squares. Within the 3x3 grid, if the most recent player turn creates a line of three matching marks (horizontal, vertical, or diagonal), then that player wins.  If there are no remaining blank squares and no winner, then the game ends.
